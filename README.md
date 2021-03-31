@@ -29,4 +29,6 @@ form is called an autoencoder.
 
 The project uses a bash script to convert a jpeg to a list of colors, as above,
 gives it to a python script that trains the neural network and produces the
-output, then converts it back to a jpeg. 
+output, then converts it back to a jpeg. A typical output looks like this:
+
+<img src=test-shade.jpg>
